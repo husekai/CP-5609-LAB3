@@ -1,0 +1,2 @@
+Assets：The assets file is the game opening file, including scripts, animations, sprites, etc.
+Game demo：Game demo file is unity's output file after the game has been created.
